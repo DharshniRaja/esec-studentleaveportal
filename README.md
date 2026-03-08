@@ -37,7 +37,9 @@ Install dependencies
 npm install
 Start development server
 npm run dev
-Open browser -> http://localhost:5173
+Open browser ➜  Local:   http://localhost:8080/
+             ➜  Network: http://10.237.114.141:8080/
+             ➜  Network: http://172.28.0.1:8080/
 
 ## Future Improvements
 - Email Notifications
